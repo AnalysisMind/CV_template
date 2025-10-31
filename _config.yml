@@ -1,6 +1,6 @@
-title: "Modèle de CV"
+dtitle: "Modèle de CV"
 logo: image/images.png
 description: "Work1 - Work2 - Work3 "
 show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-darkly
 lang: fr

@@ -4,7 +4,9 @@ description: "Work1 - Work2 - Work3 "
 show_downloads: true
 lang: fr
 theme: cayman
+url: "https://AnalysisMind.github.io"
 baseurl: ""
+
 # Options supplémentaires
 plugins:
   - jekyll-feed

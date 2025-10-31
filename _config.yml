@@ -2,5 +2,10 @@ dtitle: "Modèle de CV"
 logo: image/images.png
 description: "Work1 - Work2 - Work3 "
 show_downloads: true
-theme: jekyll-theme-hacker
 lang: fr
+theme: cayman
+baseurl: ""
+# Options supplémentaires
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
